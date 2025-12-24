@@ -1,0 +1,7 @@
+# Analysis
+
+# The Iris dataset was analyzed using histograms and scatter plots. The selected features were sepallength, petalwidth, and class.
+
+# Histograms showed that petal width varies more across species than sepal length. Scatter plots comparing features with the class label indicated that petal width # # # provides better separation between iris species.
+
+# Overall, petal width is a more informative feature for distinguishing between classes than sepal length.
